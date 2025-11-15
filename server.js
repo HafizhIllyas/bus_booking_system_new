@@ -7,10 +7,11 @@ const app = express();
 const PORT = process.env.PORT || 3000; // Use environment port for Render
 
 app.use(cors({
-    origin: "https://HafizhIllyas.github.io",
+    origin: "*",
     methods: ['GET', 'POST', 'DELETE', 'PUT', 'OPTIONS'],
     allowedHeaders: ['Content-Type', 'Authorization'],
     credentials: true
+	
 }));
 
 // Add OPTIONS handler for preflight requests
