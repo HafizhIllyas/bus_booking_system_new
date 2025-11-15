@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "username": "ok",
+    "routeId": 1,
+    "routeTitle": "Route 1",
+    "routeTime": "10:30",
+    "bookedAt": "2025-11-15T06:57:34.365Z"
+  },
+  {
+    "id": 2,
+    "username": "test",
+    "routeId": 2,
+    "routeTitle": "Route 2",
+    "routeTime": "12:30",
+    "bookedAt": "2025-11-15T07:14:06.299Z"
+  },
+  {
+    "id": 3,
+    "username": "test",
+    "routeId": 1,
+    "routeTitle": "Route 1",
+    "routeTime": "10:30",
+    "bookedAt": "2025-11-15T07:14:09.907Z"
+  }
+]

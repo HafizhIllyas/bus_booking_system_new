@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Route 1",
+    "description": "Ipoh to KL",
+    "time": "10:30",
+    "maxSeats": 40,
+    "createdAt": "2025-11-15T05:51:51.532Z"
+  },
+  {
+    "id": 2,
+    "title": "Route 2",
+    "description": "Ipoh to Penang",
+    "time": "12:30",
+    "maxSeats": 40,
+    "createdAt": "2025-11-15T05:51:51.533Z"
+  },
+  {
+    "id": 3,
+    "title": "Route 3",
+    "description": "Ipoh to JB",
+    "time": "16:30",
+    "maxSeats": 40,
+    "createdAt": "2025-11-15T05:51:51.533Z"
+  }
+]

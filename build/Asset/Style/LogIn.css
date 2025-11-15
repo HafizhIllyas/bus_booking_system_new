@@ -1,0 +1,25 @@
+.log{
+    margin: 30px, 50px;
+    background-color: lightgray;
+}
+
+.parfoot{
+    font-size:150%;
+    margin-left:auto;
+}
+.partime{
+    font-size:150%;
+    ;
+}
+
+footer {
+  background-color: yellow;
+  padding: 10px;
+  text-align: center;
+  color: black;
+  border-top: 5px solid gray;
+}
+
+/*.navi{
+    padding: 10px;
+}*/
